@@ -23,4 +23,5 @@ To try other Urdu poems or text just download the two trained models from the go
 Scope of Improvement:
 - The Urdu to English translation model was trained on Bible and Quran Parallel corpus, so the poetic translation can be improved by using 
 a parallel corpus of Urdu poetry to Modern English or vice-versa.
+- due to memory constraints on the machine we could not experiment with models like mBert50 but anticipate the BLEU score will be higher for it.
 
