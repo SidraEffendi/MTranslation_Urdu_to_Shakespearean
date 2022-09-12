@@ -9,6 +9,9 @@ Methodology:
 Trained Pre-trained models to translate low-resource Urdu language to Modern English (Pivot language). Fine tuned pre-trained GPT for style transfer 
 to Shakespearean language.
 
+<img width="458" alt="Screenshot 2022-04-21 at 7 58 02 PM" src="https://user-images.githubusercontent.com/5307694/189572190-3c5af5dd-446d-427b-9cbc-47ca1ae9b068.png">
+
+
 Reasources:
 
 Used University of Michigan, Ann Abor computing cloud gpu service to train the models. The trained models are here- https://drive.google.com/drive/folders/1Nd9KFbgLXVmNgcG5tUmOVOPvLGarNo1V?usp=sharing
