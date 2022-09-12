@@ -6,8 +6,8 @@ Translating Udru poetry to Shakespearean English
 
 Methodology:
 
-Trained Pre-trained models to translate low-resource Urdu language to Modern English (Pivot language). Fine tuned pre-trained GPT for style transfer 
-to Shakespearean language.
+- Trained a pre-trained Helsinki model on Bible and Quran Urdu-English parallel to translate Urdu to Modern English (Pivot language).
+- After zero-shot translation of Urdu poetry to Modern English, fine-tuned Shakespeare GPT-2 model to get output in Shakespearean English.
 
 <img width="458" alt="Screenshot 2022-04-21 at 7 58 02 PM" src="https://user-images.githubusercontent.com/5307694/189572190-3c5af5dd-446d-427b-9cbc-47ca1ae9b068.png">
 
