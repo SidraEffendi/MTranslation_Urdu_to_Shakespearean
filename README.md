@@ -18,7 +18,7 @@ Used University of Michigan, Ann Abor computing cloud gpu service to train the m
 
 Replicate:
 
-To try other Urdu poems or text just download the two trained models from the google drive and the notebook as well on a GPU machine and hit run.
+To try other Urdu poems or text just download the two trained models from the google drive and the notebook on your machine and hit run.
 
 Scope of Improvement:
 - The Urdu to English translation model was trained on Bible and Quran Parallel corpus, so the poetic translation can be improved by using 
